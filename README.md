@@ -1,8 +1,6 @@
 # <img align="right"> Comparing forest expansion (1930s–present) by invasive and native trees in relation to climatic, socio-economic, and landscape variables
 
-
-We kindly ask you to include the full citation if you use this material in your research: ..
-
+We kindly ask you to include the full citation if you use this material in your research: [citation].
 
 ## Install R and Rstudio from 
 
@@ -20,7 +18,7 @@ We kindly ask you to include the full citation if you use this material in your 
     
 # Dataset
 
-The dataset used in this work consists of a CSV file and a shapefile, both provided here. These files were generated from various sources, which are explained in detail in. 
+The dataset used in this work consists of a CSV file and a shapefile, both provided [here] (https://github.com/TommasoSitzia/frob/tree/3352f45dabd20adba524c2982f61289d563d51f0/data). These files were generated from various sources, which are explained in detail in the manuscript [here].
 
 # Code
 
