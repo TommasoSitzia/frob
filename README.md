@@ -18,11 +18,10 @@ We kindly ask you to include the full citation if you use this material in your 
     - pROC
     - scales
     
-## Simulated catalogue 
+# Dataset
 
-The dataset used in this work is retrieved from different sources explained in .. 
+The dataset used in this work consists of a CSV file and a shapefile, both provided here. These files were generated from various sources, which are explained in detail in. 
 
-
-### Code
+# Code
 
 We provide a script to reproduce the Figures from our paper [here](https://github.com/TommasoSitzia/frob/tree/70e5941a904146bb7cc1b77a7d8c5cac0c305cd8/script)
