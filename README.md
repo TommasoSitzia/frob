@@ -18,8 +18,8 @@ We kindly ask you to include the full citation if you use this material in your 
     
 # Dataset
 
-The dataset used in this work consists of a CSV file and a shapefile, both provided [here](https://github.com/TommasoSitzia/frob/tree/3352f45dabd20adba524c2982f61289d563d51f0/data). These files were generated from various sources, which are explained in detail in the manuscript [here] (https://doi.org/10.1016/j.ecolind.2025.113961).
+The dataset used in this work consists of a CSV file and a shapefile, both provided [here](https://github.com/TommasoSitzia/frob/tree/3352f45dabd20adba524c2982f61289d563d51f0/data). These files were generated from various sources, which are explained in detail in the manuscript [here](https://doi.org/10.1016/j.ecolind.2025.113961).
 
 # Code
 
-We provide a script to reproduce the Figures from our paper [here](https://github.com/TommasoSitzia/frob/tree/70e5941a904146bb7cc1b77a7d8c5cac0c305cd8/script)
+We provide a script to reproduce the Figures from our paper [here](https://github.com/TommasoSitzia/frob/tree/70e5941a904146bb7cc1b77a7d8c5cac0c305cd8/script).
